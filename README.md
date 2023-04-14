@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehab Taher</h1>
-<h3 align="center">A passionate Embedded software engineer from Egypt</h3>
+<h3 align="center">A passionate Embedded software engineer & PCB_designer looking to solve real problems. I have a passion for learning and sharing my knowledge with others. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehab0100&label=Profile%20views&color=0e75b6&style=flat" alt="ehab0100" /> </p>
 
