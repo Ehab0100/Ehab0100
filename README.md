@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehab0100&label=Profile%20views&color=0e75b6&style=flat" alt="ehab0100" /> </p>
 
-- 🌱 I’m currently learning **Embedded systems & PCB_designing**
+- 🌱 I’m currently learning **Embedded systems & PCB_designing & Power electronics & Digital control**
 
 - 📫 How to reach me **ehap.mostafa00@eng-st.cu.edu.eg**
 
