@@ -86,6 +86,5 @@
 <br>
 <br>
 
-<a href="https://fb.com/ehab taher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehab taher" height="30" width="40" /></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehab0100&label=Profile%20views&color=0e75b6&style=flat" alt="ehab0100" /> </p>
 
