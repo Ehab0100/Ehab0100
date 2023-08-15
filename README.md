@@ -1,32 +1,18 @@
 
 <h1 align="center"><b>Hi , I'm ihap taher </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=We+Make+Technology..;++;We+Are+The+Future,;Embedded+Engineer,;Robotics+Lover..&hearts;++;;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<h3 align="center">A passionate Embedded software & Power electronics engineer looking to solve real problems. I have a passion for learning and sharing my knowledge with others. </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehab0100&label=Profile%20views&color=0e75b6&style=flat" alt="ehab0100" /> </p>
+
+- 🌱 I’m currently learning **Embedded systems & PCB_design & Power electronics & Digital control**
+
+- 📫 How to reach me **ehap.mostafa00@eng-st.cu.edu.eg**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/ehab taher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehab taher" height="30" width="40" /></a>
 </p>
 
-
-<br>
-
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-
-- 🏢 I'm an Embedded software Engineer
-- 👨‍💻 As Learner, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C, C++, and python, or anything related to Embedded and Power Electronics.
-- ⚡ Fun Fact: I'm a football enthusiast and my perfect day would end with a football match with my friends.
-- 📫 How to reach me **ehap.mostafa00@eng-st.cu.edu.eg**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -74,13 +60,11 @@
 
 <br>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehab0100&show_icons=true&locale=en&layout=compact" alt="ehab0100" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehab0100&show_icons=true&locale=en" alt="ehab0100" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehab0100&" alt="ehab0100" /></p>
-
 
 <br>
 <br>
