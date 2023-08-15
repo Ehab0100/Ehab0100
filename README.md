@@ -2,16 +2,10 @@
 <h1 align="center"><b>Hi , I'm ihap taher </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Embedded software & Power electronics engineer looking to solve real problems. I have a passion for learning and sharing my knowledge with others. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehab0100&label=Profile%20views&color=0e75b6&style=flat" alt="ehab0100" /> </p>
 
 - 🌱 I’m currently learning **Embedded systems & PCB_design & Power electronics & Digital control**
 
 - 📫 How to reach me **ehap.mostafa00@eng-st.cu.edu.eg**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ehab taher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehab taher" height="30" width="40" /></a>
-</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
