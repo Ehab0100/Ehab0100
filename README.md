@@ -1,9 +1,9 @@
 
 <h1 align="center"><b>Hi , I'm ihap taher </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Embedded software & Power electronics engineer looking to solve real problems. I have a passion for learning and sharing my knowledge with others. </h3>
+<h3 align="center">A Passionate Power Electronics Engineer looking to solve real problems. I have a passion for learning and sharing my knowledge with others. </h3>
 
 
-- 🌱 I’m currently learning **Embedded systems & PCB_design & Power electronics & Digital control**
+- 🌱 Senior Electrical Power Engineering Student || Valeo GP Mentorship | MBD | Power Electronics | Embedded Systems | Motor Control | Control Systems | Hardware Design
 
 - 📫 How to reach me **ehap.mostafa00@eng-st.cu.edu.eg**
 
@@ -58,7 +58,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehab0100&" alt="ehab0100" /></p>
 
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehab0100&label=Profile%20views&color=0e75b6&style=flat" alt="ehab0100" /> </p>
 
